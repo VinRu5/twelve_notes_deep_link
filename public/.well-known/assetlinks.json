@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "me.dev.vinrus.twelve_notes",
+      "sha256_cert_fingerprints": [
+        "96:5F:13:12:5B:12:E3:5E:7A:57:AC:1F:98:46:DB:49:67:EE:88:2D:27:27:2E:25:09:51:6F:42:97:5D:6F:29"
+      ]
+    }
+  }
+]
